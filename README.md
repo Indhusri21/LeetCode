@@ -40,3 +40,13 @@
             >>Using [2:] is used for doesnt considering first two numbers.
             >>Using 'bin()' the addition result is returned as binary.
 ----------------------------------------------------------------------------------------------------
+
+# DAY 6
+    PROBLEM TITLE:ROMAN TO INTEGERS
+    PROBLEM EXPLANATION:
+            >>Mapping each Roman letter (I, V, X, L, C, D, M) to its number value.
+            >>Finding length and initializing total = 0.
+            >>Reading the Roman numeral from left to right, comparing each letter to the next one.
+            >>If a letter is smaller than the next letter, subtract its value from the total.
+            >>Otherwise (if it is larger or equal), add its value to the total.
+            >>Returning the integer of the roman numerals.
