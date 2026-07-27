@@ -50,3 +50,10 @@
             >>If a letter is smaller than the next letter, subtract its value from the total.
             >>Otherwise (if it is larger or equal), add its value to the total.
             >>Returning the integer of the roman numerals.
+
+----------------------------------------------------------------------------------------------------
+
+# DAY 7
+    PROBLEM TITLE:TO LOWERCASE
+    PROBLEM EXPLANATION:
+            >>Reversed the string using .lower() and displayed it.
