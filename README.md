@@ -51,9 +51,18 @@
             >>Otherwise (if it is larger or equal), add its value to the total.
             >>Returning the integer of the roman numerals.
 
-----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 
 # DAY 7
     PROBLEM TITLE:TO LOWERCASE
     PROBLEM EXPLANATION:
             >>Reversed the string using .lower() and displayed it.
+
+----------------------------------------------------------------------------------------------
+# DAY 8
+    PROBLEM TITLE: REVERSE WORDS OF THE STRING
+    PROBLEM EXPLANATION:
+            >>Split the words in the string seperately using .split().
+            >>Reversed the words seperately and rejoined them as string.
+            >>Displayed the output string.
+----------------------------------------------------------------------------------------------
