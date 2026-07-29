@@ -66,3 +66,12 @@
             >>Reversed the words seperately and rejoined them as string.
             >>Displayed the output string.
 ----------------------------------------------------------------------------------------------
+
+# DAY 9
+    PROBLEM TITLE: lENGTH OF LAST WORD
+    PROBLEM EXPLANATION:
+            >>.strip helps to remove spaces and split helps to separate the words in the string.
+            >>using indexing finding the length of last word.
+            >>Displayed the output string.
+
+----------------------------------------------------------------------------------------------
