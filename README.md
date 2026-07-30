@@ -75,3 +75,12 @@
             >>Displayed the output string.
 
 ----------------------------------------------------------------------------------------------
+
+# Day 10
+    PROBLEM TITLE: CONVERT A NUMBER TO HEXADECIMAL
+    PROBLEM EXPLANATION:
+            >>Converting the negative numbers to hexadecimal number.
+            >>Using built-in hex() to convert positive integers to hexadecimal.
+            >>Displaying the output.
+
+----------------------------------------------------------------------------------------------
