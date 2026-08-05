@@ -84,3 +84,13 @@
             >>Displaying the output.
 
 ----------------------------------------------------------------------------------------------
+# DAY 11
+    PROBLEM TITLE: FIND THE INDEX OF FIRST OCCURENCE IN A STRING
+    PROBLEM EXPLANATION:
+            >>Check length: Return -1 immediately if needle is longer than haystack.
+            >>Slide window: Move a fixed-size window across haystack one character at a time.
+            >>Compare text: Check if the substring inside the current window equals needle.
+            >>Return result: Return the starting index on the first match, or -1 if never found.
+
+------------------------------------------------------------------------------------------------
+
