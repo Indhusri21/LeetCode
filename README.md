@@ -94,3 +94,11 @@
 
 ------------------------------------------------------------------------------------------------
 
+# DAY 12
+    PROBLEM TITLE: BASE 7
+    PROBLEM EXPLANATION:
+            >>Solved using numpy.
+            >>Return "0" immediately if num is 0.
+            >>Save the negative sign if num < 0, then work with abs(num)[abs gives absolute value]
+            >>Repeatedly divide the number by 7, collecting the remainders for each digit.
+            >>Reverse the collected digits and prepending the stored sign.
