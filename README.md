@@ -111,3 +111,10 @@
             >>Checking if the sentence is palindrome by the condition word = word[::-1], if it is palindrome it returns true otherwise false.
 
 ----------------------------------------------------------------------------------------------------
+# DAY 14
+    PROBLEM TITLE: VALID ANAGRAM
+    PROBLEM EXPLANATION:
+            >>Sorting the words using sorted().
+            >>Return true if it is anagram othewise false.
+
+----------------------------------------------------------------------------------------------------
