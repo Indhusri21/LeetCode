@@ -102,3 +102,10 @@
             >>Save the negative sign if num < 0, then work with abs(num)[abs gives absolute value]
             >>Repeatedly divide the number by 7, collecting the remainders for each digit.
             >>Reverse the collected digits and prepending the stored sign.
+
+------------------------------------------------------------------------------------------------
+# DAY 13
+    PROBLEM TITLE: VALID PALINDROME
+    PROBLEM EXPLANATION:
+            >>Joining the sentence without symbols and converting all in lower case.
+            >>Checking if the sentence is palindrome by the condition word = word[::-1], if it is palindrome it returns true otherwise false.
