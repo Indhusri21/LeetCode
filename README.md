@@ -109,3 +109,5 @@
     PROBLEM EXPLANATION:
             >>Joining the sentence without symbols and converting all in lower case.
             >>Checking if the sentence is palindrome by the condition word = word[::-1], if it is palindrome it returns true otherwise false.
+
+----------------------------------------------------------------------------------------------------
