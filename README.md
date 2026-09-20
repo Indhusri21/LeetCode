@@ -125,3 +125,10 @@
             >>Convert the number into string.
             >>Check if it is palindrome by reversing and return ture if it is palindrome otherwise false.
 ----------------------------------------------------------------------------------------------------
+
+# DAY 16
+    PROBLEM TITLE:MERGE SORTED ARRAY
+    PROBLEM EXPLANATION:
+        >>Indexing nums1 with m and n values and assigning it directly to nums2. 
+        >>Copy all elements from nums2 into the empty slots at the end of nums1.
+        >>Sort the combined nums1 array in ascending order so all numbers are in correct sequence.   
